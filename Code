@@ -3,8 +3,8 @@ from textblob import TextBlob
 import pandas as pd
 
 # API Key for NewsAPI (replace with your own API key)
-NEWS_API_KEY = "f40250a8e9fb41a2b8b46b98b961b8f4"
-NYT_API_KEY = 'PG8Ic5jVylxKyilRGwf8hIWC32UnQQFE'
+NEWS_API_KEY = "yourcodehere"
+NYT_API_KEY = 'yourcodehere'
 
 # Step 1: Fetch News Articles from NewsAPI
 def fetch_news_api():
